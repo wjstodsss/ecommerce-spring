@@ -1,0 +1,65 @@
+[
+  {
+    "productname": "하루반찬 Set1",
+    "description": "미역줄기볶음,순한진미채볶음,수제카레",
+    "price": "8000",
+    "pictureurl": "haru001.jpg",
+    "category": "0"
+  },
+  {
+    "productname": "하루반찬 Set2",
+    "description": "깨순조림,지리멸치볶음,수제짜장",
+    "price": "8000",
+    "pictureurl": "haru002.jpg",
+    "category": "0"
+  },
+  {
+    "productname": "하루반찬 Set3",
+    "description": "건취나물볶음,쥐포간장볶음,무말랭이김치",
+    "price": "8000",
+    "pictureurl": "haru003.jpg",
+    "category": "0"
+  },
+  {
+    "productname": "하루반찬 Set4",
+    "description": "계란말이,순한진미채볶음,부지깽이나물볶음",
+    "price": "8000",
+    "pictureurl": "haru004.jpg",
+    "category": "0"
+  },
+  {
+    "productname": "하루반찬 Set5",
+    "description": "닭가슴살장조림,새우볶음,오이나물양념무침",
+    "price": "8000",
+    "pictureurl": "haru005.jpg",
+    "category": "0"
+  },
+  {
+    "productname": "하루반찬 Set6",
+    "description": "우삼겹강된장소스,건취나물볶음,우엉채조림",
+    "price": "8000",
+    "pictureurl": "haru006.jpg",
+    "category": "0"
+  },
+  {
+    "productname": "하루반찬 Set7",
+    "description": "오징어채간장볶음,밥비벼먹는볶음김치,메추리알감자샐러드",
+    "price": "8000",
+    "pictureurl": "haru007.jpg",
+    "category": "0"
+  },
+  {
+    "productname": "하루반찬 Set8",
+    "description": "닭가슴살겨자소스냉채,대왕오징어간장조림,청양고추멸치볶음",
+    "price": "8000",
+    "pictureurl": "haru008.jpg",
+    "category": "0"
+  },
+  {
+    "productname": "하루반찬 Set9",
+    "description": "메추리알장조림,다시마채액젓무침,가지양념볶음",
+    "price": "8000",
+    "pictureurl": "haru009.jpg",
+    "category": "0"
+  }
+]

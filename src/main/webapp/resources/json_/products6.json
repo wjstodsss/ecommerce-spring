@@ -1,0 +1,114 @@
+[
+  {
+    "productname": "모둠나물 300g",
+    "description": "각각의 나물들이 선사하는 산뜻함",
+    "price": "9000",
+    "pictureurl": "namul001.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "건취나물볶음 150g",
+    "description": "힘이 나는 건강반찬!",
+    "price": "4000",
+    "pictureurl": "namul002.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "부지깽이나물볶음 100g",
+    "description": "향도 좋고, 맛도 좋은 부지갱이나물",
+    "price": "4000",
+    "pictureurl": "namul003.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "숙주나물 200g",
+    "description": "깔끔하고 정갈한 나물반찬",
+    "price": "4000",
+    "pictureurl": "namul004.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "무제사나물 200g",
+    "description": "건강한 나물반찬",
+    "price": "3000",
+    "pictureurl": "namul005.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "고사리나물볶음 200g",
+    "description": "명절과 생일상에 빠지지않는 반찬",
+    "price": "4000",
+    "pictureurl": "namul006.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "콩나물제사나물 200g",
+    "description": "아삭한 집밥의 기본반찬",
+    "price": "3000",
+    "pictureurl": "namul007.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "도라지나물볶음 120g",
+    "description": "쌉쌀하고 담백하게 볶아낸",
+    "price": "4000",
+    "pictureurl": "namul008.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "고추된장무침 200g",
+    "description": "오이같은 아삭함!",
+    "price": "5000",
+    "pictureurl": "namul009.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "곤드레나물볶음 150g",
+    "description": "구수한 나물반찬",
+    "price": "4000",
+    "pictureurl": "namul010.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "깨순조림 150g",
+    "description": "잔멸치를 넣어 만든 향긋한 반찬",
+    "price": "4000",
+    "pictureurl": "namul011.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "도라지초무침 200g",
+    "description": "새콤달콤한 나물반찬",
+    "price": "6000",
+    "pictureurl": "namul012.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "들깨깨순조림 200g",
+    "description": "향긋한 깻잎순과 고소한 들깨",
+    "price": "5000",
+    "pictureurl": "namul013.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "무생채 300g",
+    "description": "식욕을 돋아주는 새콤달콤한 무생채",
+    "price": "4000",
+    "pictureurl": "namul014.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "미역줄기볶음 200g",
+    "description": "식이섬유가 풍부한!",
+    "price": "4000",
+    "pictureurl": "namul015.jpg",
+    "category": "6"
+  },
+  {
+    "productname": "시금치나물 100g",
+    "description": "영양이 풍부한 건강반찬",
+    "price": "7000",
+    "pictureurl": "namul016.jpg",
+    "category": "6"
+  }
+]

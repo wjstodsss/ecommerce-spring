@@ -1,0 +1,58 @@
+[
+  {
+    "productname": "해물부추전 200g",
+    "description": "노릇노릇 구워진 해물부추전",
+    "price": "5000",
+    "pictureurl": "jeon001.jpg",
+    "category": "5"
+  },
+  {
+    "productname": "김치전 200g",
+    "description": "직접 담근 김치로 구워낸",
+    "price": "5000",
+    "pictureurl": "jeon002.jpg",
+    "category": "5"
+  },
+  {
+    "productname": "진가네 깻잎전 5개/150g",
+    "description": "정성으로 직접 구워낸",
+    "price": "9000",
+    "pictureurl": "jeon003.jpg",
+    "category": "5"
+  },
+  {
+    "productname": "동그랑땡 8개/300g",
+    "description": "두툼하게 직접 빚어낸",
+    "price": "9000",
+    "pictureurl": "jeon004.jpg",
+    "category": "5"
+  },
+  {
+    "productname": "부추겉절이와육전 *g",
+    "description": "술 안주로 제격인",
+    "price": "16000",
+    "pictureurl": "jeon005.jpg",
+    "category": "5"
+  },
+  {
+    "productname": "표고전 6개/220g",
+    "description": "표고로 만든 고급전",
+    "price": "9000",
+    "pictureurl": "jeon006.jpg",
+    "category": "5"
+  },
+  {
+    "productname": "소세지전 200g",
+    "description": "추억의 반찬",
+    "price": "4000",
+    "pictureurl": "jeon007.jpg",
+    "category": "5"
+  },
+  {
+    "productname": "특급비법소스 140g",
+    "description": "비빔냉면, 고기소스로 좋아요",
+    "price": "3000",
+    "pictureurl": "etc008.jpg",
+    "category": "5"
+  }
+]
