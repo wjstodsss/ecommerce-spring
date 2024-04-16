@@ -1,0 +1,79 @@
+[
+  {
+    "productname": "한우육개장(냉동) 400g",
+    "description": "제대로 된 국 한그릇",
+    "price": "6000",
+    "pictureurl": "soup001.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "들깨북어미역국(냉동) 400g",
+    "description": "들깨가루를 듬뿍 넣어 고소한",
+    "price": "5000",
+    "pictureurl": "soup002.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "해물순두부국 400g",
+    "description": "각 종 해물을 듬뿍 넣어 만든",
+    "price": "6000",
+    "pictureurl": "soup003.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "배추시래기국(냉동) 400g",
+    "description": "자극적이지 않아 아이반찬으로도 좋은",
+    "price": "5000",
+    "pictureurl": "soup004.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "북엇국(냉동) 400g",
+    "description": "구수하고 담백하게 정성껏 끓여낸",
+    "price": "5000",
+    "pictureurl": "soup005.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "한우미역국(냉동) 400g",
+    "description": "언제 먹어도 맛있는",
+    "price": "5000",
+    "pictureurl": "soup006.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "우삼겹순두부국 400g",
+    "description": "우삼겹과 순두부의 부드러운 조화",
+    "price": "6000",
+    "pictureurl": "soup007.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "참치김치찌개 500g",
+    "description": "참치를 듬뿍 넣어 끓여낸",
+    "price": "5000",
+    "pictureurl": "soup008.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "소고기탕국 400g",
+    "description": "구수한 국물 맛이 일품인",
+    "price": "5000",
+    "pictureurl": "soup009.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "진가네 닭개장 400g",
+    "description": "얼큰하게 끓여낸",
+    "price": "6000",
+    "pictureurl": "soup010.jpg",
+    "category": "3"
+  },
+  {
+    "productname": "다슬기국(냉동) 400g",
+    "description": "시원한 국물 맛이 일품인",
+    "price": "6000",
+    "pictureurl": "soup011.jpg",
+    "category": "3"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "productname": "배추포기김치 2.3kg",
+    "description": "한국인의 혼을 담다",
+    "price": "36000",
+    "pictureurl": "kimchi001.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "진가네 겉절이김치 500g",
+    "description": "금방 무친 산뜻한 맛",
+    "price": "10000",
+    "pictureurl": "kimchi002.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "열무물김치 400g",
+    "description": "더위를 가셔주는 시원한 맛",
+    "price": "3000",
+    "pictureurl": "kimchi003.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "총각김치 500g",
+    "description": "아삭아삭 입 속의 경쾌한 소리",
+    "price": "8000",
+    "pictureurl": "kimchi004.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "파김치 350g",
+    "description": "깊은 그늘처럼 우묵한 맛",
+    "price": "8000",
+    "pictureurl": "kimchi005.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "부추김치 300g",
+    "description": "자꾸만 손이가는 중독성",
+    "price": "7000",
+    "pictureurl": "kimchi006.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "고추김치 순한맛 100g",
+    "description": "잘 발린 양념만큼이나 맛있는 고추김치",
+    "price": "2000",
+    "pictureurl": "kimchi007.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "깍두기 500g",
+    "description": "입 맛 당기는 알싸하게 시원한 맛",
+    "price": "7000",
+    "pictureurl": "kimchi008.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "생깻잎김치 100g",
+    "description": "산들바람처럼 향긋한~",
+    "price": "4000",
+    "pictureurl": "kimchi009.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "섞박지 500g",
+    "description": "개운하고 아삭한 별미김치",
+    "price": "8000",
+    "pictureurl": "kimchi010.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "오이소박이 500g",
+    "description": "아삭하고 상큼한 맛",
+    "price": "9000",
+    "pictureurl": "kimchi011.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "열무잘박이김치 400g",
+    "description": "더위를 가셔주는 시원한 맛",
+    "price": "4000",
+    "pictureurl": "kimchi012.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "고추김치 매운맛 100g",
+    "description": "입 맛 살려주는 매콤한 맛",
+    "price": "2000",
+    "pictureurl": "kimchi013.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "무말랭이김치 100g",
+    "description": "무 손질부터 직접한 무말랭이",
+    "price": "4000",
+    "pictureurl": "kimchi014.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "고들빼기김치 150g",
+    "description": "고들빼기로 만든 별미김치",
+    "price": "5000",
+    "pictureurl": "kimchi015.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "빨간 나박물김치 400g",
+    "description": "사라락 눈송이처럼 녹는 시원한 맛",
+    "price": "4000",
+    "pictureurl": "kimchi016.jpg",
+    "category": "1"
+  },
+  {
+    "productname": "하얀 나박물김치 400g",
+    "description": "사라락 눈송이처럼 녹는 시원한 맛",
+    "price": "4000",
+    "pictureurl": "kimchi017.jpg",
+    "category": "1"
+  }
+]

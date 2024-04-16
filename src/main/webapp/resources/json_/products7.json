@@ -1,0 +1,93 @@
+[
+  {
+    "productname": "마늘쫑장아찌 100g",
+    "description": "국내산 마늘쫑으로 직접 담은",
+    "price": "4000",
+    "pictureurl": "jang001.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "아삭이고추 장아찌 100g",
+    "description": "새콤달콤한 양념과 아삭한 고추의 기분좋은 조화",
+    "price": "4000",
+    "pictureurl": "jang002.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "영양비빔젓갈 200g",
+    "description": "팔방미인 젓갈반찬",
+    "price": "5000",
+    "pictureurl": "jang003.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "깐마늘장아찌 150g",
+    "description": "두고두고 먹을 수 있는 건강반찬",
+    "price": "3000",
+    "pictureurl": "jang004.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "창란젓갈 150g",
+    "description": "입맛을 사로잡는 밥도둑!",
+    "price": "5000",
+    "pictureurl": "jang005.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "청양고추 장아찌 100g",
+    "description": "맛있는 매콤함",
+    "price": "4000",
+    "pictureurl": "jang006.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "낙지젓갈 150g",
+    "description": "젓갈계의 황태자!",
+    "price": "6000",
+    "pictureurl": "jang007.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "깻잎장아찌 100g",
+    "description": "새콤달콤한 양념과 향긋한 깻잎향의 조화",
+    "price": "4000",
+    "pictureurl": "jang008.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "오이나물초무침 150g",
+    "description": "아삭하고 산뜻함이 느껴지는",
+    "price": "5000",
+    "pictureurl": "jang009.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "명란젓갈 200g",
+    "description": "명란이라 더 고급스러운!",
+    "price": "13000",
+    "pictureurl": "jang010.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "두부강된장 150g",
+    "description": "구수함이 일품인",
+    "price": "5000",
+    "pictureurl": "jang011.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "젓갈쌈장소스 150g",
+    "description": "감칠맛이 좋은 액젓베이스의 쌈장소스",
+    "price": "4000",
+    "pictureurl": "jang012.jpg",
+    "category": "7"
+  },
+  {
+    "productname": "우삼겹강된장소스 400g",
+    "description": "든든하게 한끼 식사",
+    "price": "8000",
+    "pictureurl": "jang013.jpg",
+    "category": "7"
+  }
+]
